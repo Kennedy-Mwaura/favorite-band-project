@@ -1,6 +1,7 @@
 # Favourite Band Project
 
 #### {Brief description of application}
+* This is a simple HTML page about my favorite rock band, Breaking Benjamin. This is a first week class project. 
 
 #### Version 0.2
 
@@ -9,7 +10,6 @@
 
 ## Description
 
-* This is a simple HTML page about my favorite rock band, Breaking Benjamin. 
 * Utilizing Bootstrap5 for styling pulled in via CDN for performance reasons. 
 * To install: 
   1. git clone this repository and run it via your preferred browser. Edit using your preferred editor. 
