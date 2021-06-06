@@ -1,6 +1,6 @@
 # Favourite Band Project
 
-#### {Brief description of application}
+#### Brief description of application
 * This is a simple HTML page about my favorite rock band, Breaking Benjamin. This is a first week class project. 
 
 #### Version 0.2
