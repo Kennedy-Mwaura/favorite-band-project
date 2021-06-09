@@ -1,11 +1,24 @@
-
+* {
+  box-sizing: border-box !important;
+}
 
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
   color: #5a5a5a;
 }
+.container-fluid {
+  padding: 3em;
+  height: 32rem;
 
+}
+html {
+  scroll-behavior: smooth;
+}
+
+button:focus {
+  outline: none;
+}
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
