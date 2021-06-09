@@ -10,7 +10,6 @@
 
 ## Description
 
-* Utilizing Bootstrap5 for styling pulled in via CDN for performance reasons. 
 * To install: 
   1. git clone this repository and run it via your preferred browser. Edit using your preferred editor. 
    OR 
@@ -20,7 +19,7 @@
 None currently.
 ## Technologies Used
 HTML5 
-CSS3 (Bootstrap5)
+CSS3
 ## Support and contact details
 Contact me on [Twitter](https://twitter.com/KenMwaura1)
 ### License
